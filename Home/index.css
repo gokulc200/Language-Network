@@ -1,0 +1,218 @@
+.bg-container {
+  min-height: 100vh;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.main-heading {
+  font-size: 75px;
+  font-weight: bold;
+}
+
+.brochure-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.brochure-description {
+  font-size: 38px;
+}
+
+.brochure-button {
+  background: linear-gradient(180deg, #58d69d 0%, #13bfab 100%);
+  border-radius: 3px;
+  height: 50px;
+  color: #ffffff;
+  width: 20%;
+  border: 1px solid #ffffff;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.course-details {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px;
+}
+
+.course-container {
+  display: flex;
+  width: 200px;
+  text-align: left;
+}
+
+.number-details {
+  display: flex;
+  flex-direction: column;
+  margin-right: 10%;
+}
+
+.image-logo {
+  height: 65px;
+  width: 65px;
+  margin-right: 10px;
+}
+
+.numbers {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.number-descriptions {
+  font-size: 18px;
+}
+
+.image-container {
+  text-align: right;
+  margin-right: 0px;
+}
+
+.bonjour-image {
+  height: 430px;
+  width: 768px;
+}
+
+.learning-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #2e3131;
+  width: 100%;
+}
+
+.learning-heading {
+  font-size: 22px;
+}
+
+.learning-field {
+  display: flex;
+}
+
+.learning-container {
+  display: flex;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #ffffff;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  margin: 10px;
+  background-color: #ffffff;
+}
+
+.top-portion {
+  height: 100px;
+  background-color: #13bfab;
+  color: #2e3131;
+}
+
+.bottom-portion {
+  height: 200px;
+  color: #2e3131;
+  padding: 10px;
+  text-align: left;
+}
+
+.start-button {
+  background-color: #13bfab;
+  color: #ffffff;
+
+  height: 60px;
+  border: 0px solid #ffffff;
+  font-size: 20px;
+  text-align: center;
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+.french-heading {
+  color: #13bfab;
+  font-size: 40px;
+  text-align: left;
+}
+
+.french-logo {
+  height: 520px;
+  width: 990px;
+}
+
+.french-description {
+  width: 1200px;
+  font-size: 24px;
+  font-weight: 400;
+  text-align: left;
+  font-family: 'Poppins';
+}
+
+.french-course-heading {
+  font-size: 32px;
+}
+
+.course-field {
+  display: flex;
+  padding: 10px;
+  background-color: #ffffff;
+}
+
+.course-card {
+  border: 1px solid black;
+  border-radius: 5px;
+  margin: 10px;
+  text-align: left;
+  padding: 35px;
+  font-family: 'Poppins';
+  width: 300px;
+}
+
+.topic-heading {
+  font-size: 20px;
+  color: black;
+}
+
+.level-heading {
+  font-size: 22px;
+  color: #13bfab;
+  font-weight: bold;
+}
+
+.amount-heading {
+  color: black;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.curriculum-description {
+  font-size: 18px;
+  color: #555a63;
+  font-weight: bold;
+}
+
+.curriculum-details {
+  color: #637085;
+  font-size: 15px;
+}
+
+.view-curriculum-description {
+  color: #13bfab;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.buy-btn {
+  height: 30px;
+  background-color: #13bfab;
+  border-radius: 10px;
+  border-width: 0px;
+  width: 110px;
+  color: #ffffff;
+}

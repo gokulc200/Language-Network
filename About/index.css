@@ -1,0 +1,65 @@
+.about-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.language-portion {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 18px;
+  width: 90%;
+}
+
+.language-heading {
+  font-size: 70px;
+  font-weight: 600;
+  color: black;
+}
+
+.language-description {
+  font-size: 26px;
+  color: black;
+}
+
+.bonjour-image {
+  width: 812px;
+  height: 485px;
+}
+
+.number-details {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 70%;
+  margin-right: 10%;
+}
+
+.course-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  text-align: left;
+  margin: 10px;
+}
+
+.image-logo {
+  height: 65px;
+  width: 65px;
+  margin-right: 10px;
+}
+
+.numbers {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.number-descriptions {
+  font-size: 18px;
+}
